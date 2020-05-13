@@ -1,0 +1,125 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BarcodeTeknik.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SPP</title>
+    
+
+     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+  
+</head>
+ 
+<body id="ignorePDF">
+<link href="~/Scripts/plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <%: Styles.Render("~/Content/css") %>
+    <%: Styles.Render("~/font-awesome/css") %>
+    <%:Scripts.Render("~/bundles/jquery")%>
+    <%:Scripts.Render("~/bundles/bootstrap") %>
+    <%:Scripts.Render("~/plugins/slimScroll") %>
+    <%:Scripts.Render("~/bundles/inspinia") %>
+    <%:Scripts.Render("~/plugins/inline") %>
+    <%:Scripts.Render("~/bundles/skinConfig") %>
+    <%:Styles.Render("~/Content/plugins/dataTables/dataTablesStyles") %>
+    <%:Styles.Render("~/Content/custompopup.css") %>
+    <%:Scripts.Render("~/plugins/dataTables")%>
+    <%:Scripts.Render("~/bundles/jspdf")%>
+    <%:Scripts.Render("~/bundles/jqueryui")%>
+    <%:Styles.Render("~/Scripts/plugins/jquery-ui/jqueryuiStyles")%>
+     <%:Styles.Render("~/fonts/font-awesome/css/code128")%>
+  <%:Scripts.Render("~/plugins/angulardatatables")%>
+    <style>
+          .center-div {
+            position: fixed;
+            margin: auto;
+            top: -80px;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+    <script type="text/javascript">
+        $(function () {
+          $(".date").datepicker();
+      });  
+    </script>
+   <%-- <form runat="server">--%>
+    <div id="wrapper">
+        <nav class="navbar-default navbar-static-side" role="navigation">
+            <div  class="sidebar-collapse">
+                <ul class="nav metismenu" id="side-menu">
+                    <li class="nav-header">
+                        <div class="dropdown profile-element">
+                            <span>
+                                <%-- <img alt="image" class="img-circle" src="img/profile_small.jpg" />--%>
+                            </span>
+                            <a href="<%=ResolveUrl("~/Default.aspx") %>">
+                                SPP</a>
+                            <%-- <span class="text-muted text-xs block">Art Director <b class="caret"></b></span> </span> --%>
+                            <%--  <ul class="dropdown-menu animated fadeInRight m-t-xs">
+                            <li><a href="profile.html">Profile</a></li>
+                            <li><a href="contacts.html">Contacts</a></li>
+                            <li><a href="mailbox.html">Mailbox</a></li>
+                            <li class="divider"></li>
+                            <li><a href="login.html">Logout</a></li>
+                        </ul>--%>
+                        </div>
+                        <div class="logo-element">
+                            SPP
+                        </div>
+                    </li>
+                    <% 
+                        for (c = 0; c < dt.Rows.Count; c++)
+                        {%>
+                    <li>
+                        <a href="#"><i class="<%Response.Write(dt.Rows[c][2].ToString());%>"></i><span class="nav-label"><%Response.Write(dt.Rows[c][0].ToString());%></span> <span class="fa arrow"></span></a>
+                          <ul class="nav nav-second-level collapse">
+                        <%  result = dt2.Select("[Parent]='" + dt.Rows[c][1] + "'");
+                          
+                            for (b = 0; b < result.Length; b++)
+                            {%>
+                        
+                            <li><a href="<%=ResolveUrl("~"+result[b][2].ToString()) %>"><%Response.Write(result[b][0]);%></a></li>
+                        
+                        <%  }%>    
+                              </ul>
+                    </li>
+
+                    <%  }%>
+                </ul>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="gray-bg">
+               <div class="row border-bottom">
+        <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
+         
+                </div>
+            </nav>
+             </div>
+         
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <div class="footer">
+                <div class="pull-right">
+                  
+                </div>
+                <div>
+                    <strong>Copyright Inter Aneka</strong> &copy; 2018
+                </div>
+            </div>
+
+        </div>
+    </div>
+<%--   </form>--%>
+</body>
+
+</html>

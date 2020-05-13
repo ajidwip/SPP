@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="PartNoAutoComplete">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartNoAutoCompleteTable" nillable="true">
+        <xs:complexType>
+          <xs:annotation>
+            <xs:appinfo>
+              <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+            </xs:appinfo>
+          </xs:annotation>
+          <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PartNoAutoComplete" nillable="true" type="tns:PartNoAutoComplete" />
+  <xs:complexType name="Site">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="SiteTable" nillable="true">
+        <xs:complexType>
+          <xs:annotation>
+            <xs:appinfo>
+              <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+            </xs:appinfo>
+          </xs:annotation>
+          <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Site" nillable="true" type="tns:Site" />
+  <xs:complexType name="Rak">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Raktable" nillable="true">
+        <xs:complexType>
+          <xs:annotation>
+            <xs:appinfo>
+              <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+            </xs:appinfo>
+          </xs:annotation>
+          <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Rak" nillable="true" type="tns:Rak" />
+  <xs:complexType name="cek">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="count" type="xs:int" />
+      <xs:element minOccurs="0" name="dept" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="cek" nillable="true" type="tns:cek" />
+  <xs:complexType name="TrxId">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="TrxId1" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TrxId" nillable="true" type="tns:TrxId" />
+  <xs:complexType name="PartNo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartNo1" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PartNo" nillable="true" type="tns:PartNo" />
+  <xs:complexType name="CompositeType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BoolValue" type="xs:boolean" />
+      <xs:element minOccurs="0" name="StringValue" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CompositeType" nillable="true" type="tns:CompositeType" />
+  <xs:complexType name="Contract">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ContracTable" nillable="true">
+        <xs:complexType>
+          <xs:annotation>
+            <xs:appinfo>
+              <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+            </xs:appinfo>
+          </xs:annotation>
+          <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Contract" nillable="true" type="tns:Contract" />
+  <xs:complexType name="Opname">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="OpnameTable" nillable="true">
+        <xs:complexType>
+          <xs:annotation>
+            <xs:appinfo>
+              <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+            </xs:appinfo>
+          </xs:annotation>
+          <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Opname" nillable="true" type="tns:Opname" />
+  <xs:complexType name="cekSite">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="count1" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="cekSite" nillable="true" type="tns:cekSite" />
+  <xs:complexType name="cekRak">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="count2" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="cekRak" nillable="true" type="tns:cekRak" />
+  <xs:complexType name="rakno">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="rakno1" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="rakno" nillable="true" type="tns:rakno" />
+  <xs:complexType name="opanameitem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="opanameitemtable" nillable="true">
+        <xs:complexType>
+          <xs:annotation>
+            <xs:appinfo>
+              <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+            </xs:appinfo>
+          </xs:annotation>
+          <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="opanameitem" nillable="true" type="tns:opanameitem" />
+</xs:schema>

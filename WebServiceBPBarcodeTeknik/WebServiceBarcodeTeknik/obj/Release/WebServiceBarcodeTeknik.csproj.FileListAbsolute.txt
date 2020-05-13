@@ -1,0 +1,7 @@
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\bin\WebServiceBarcodeTeknik.dll.config
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\bin\WebServiceBarcodeTeknik.dll
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\bin\WebServiceBarcodeTeknik.pdb
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\obj\Release\WebServiceBarcodeTeknik.csprojAssemblyReference.cache
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\obj\Release\WebServiceBarcodeTeknik.csproj.CoreCompileInputs.cache
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\obj\Release\WebServiceBarcodeTeknik.dll
+E:\Projects\SPP BP\WebServiceBarcodeTeknik\WebServiceBarcodeTeknik\obj\Release\WebServiceBarcodeTeknik.pdb

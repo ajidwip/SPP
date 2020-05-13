@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="@drawable/recycledivide2">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/txtpartNo" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/txtstatus" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="-20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="Qty" />
+        <TextView
+            android:layout_width="60dp"
+            android:layout_marginLeft="265dp"
+            android:layout_height="50dp"
+            android:textSize="20dp"
+            android:id="@+id/editqty" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="Site" />
+        <TextView
+            android:layout_width="60dp"
+            android:layout_marginLeft="230dp"
+            android:layout_height="wrap_content"
+            android:hint="Site"
+            android:textSize="20dp"
+            android:id="@+id/editSite" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="Rak No" />
+        <TextView
+            android:layout_width="120dp"
+            android:layout_marginLeft="160dp"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:id="@+id/editrak" />
+    </LinearLayout>
+</LinearLayout>

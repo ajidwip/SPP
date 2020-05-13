@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+      android:id="@+id/action_StockOpname"
+      android:enabled="true"
+      android:title="@string/StockOpname"
+      app:showAsAction="ifRoom" />
+  <item
+      android:id="@+id/action_pemakaian"
+      android:enabled="true"
+      android:title="@string/Pemakaian"
+      app:showAsAction="ifRoom" />
+ <item
+      android:id="@+id/action_Upload"
+      android:enabled="true"
+      android:title="@string/Upload"
+      app:showAsAction="ifRoom" />
+  
+</menu>

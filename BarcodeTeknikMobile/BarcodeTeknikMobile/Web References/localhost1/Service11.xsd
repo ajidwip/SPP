@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.6.232:94/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" />
+  <xs:element name="GetPartNoAutoComplete">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartNoAutoCompleteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetPartNoAutoCompleteResult" nillable="true" type="q1:PartNoAutoComplete" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetSite">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetSiteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetSiteResult" nillable="true" type="q2:Site" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetRak">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetRakResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetRakResult" nillable="true" type="q3:Rak" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TambahNoUrut">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TambahNoUrutResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="synwo">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="synwoResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="synqty">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="synqtyResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="changepassword">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="UserId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="oldpassword" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="NewPAssword" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="changepasswordResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="updateWoNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="TransactionID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="WO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="updateWoNumberResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cekuser">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="UserId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cekuserResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="cekuserResult" nillable="true" type="q4:cek" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getID">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIDResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="getIDResult" nillable="true" type="q5:TrxId" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getpart">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="part" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getpartResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="getpartResult" nillable="true" type="q6:PartNo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getdept">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="UserId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getdeptResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="getdeptResult" nillable="true" type="q7:cek" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uploadphoto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="img" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uploadphotoResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uploadphoto2">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="img" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uploadphoto2Response">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uploadphoto3">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="img" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="uploadphoto3Response">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteWo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="WO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteWoResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deletepemakaian">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="WO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="partNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransactionId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RakNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deletepemakaianResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deletestokcopname">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="partNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="opanamedate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deletestokcopnameResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="closeWO">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="WO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransactionId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="closeWOResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertWOTransaction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="qty" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="WONo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransactionId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="userid" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RakNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertWOTransactionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="stockopname">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="qty" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Contract" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Rak_No" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="tanggal" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="stockopnameResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="updateqtystockopname">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="qty" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="opanamedate" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="updateqtystockopnameResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="unissued">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="qty" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="WONo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransactionId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RakNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="unissuedResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="updatejumlahpakai">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="qty" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="WONo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransactionId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RakNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="updatejumlahpakaiResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="value" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetDataResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDataUsingDataContract">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="composite" nillable="true" type="q8:CompositeType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDataUsingDataContractResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetDataUsingDataContractResult" nillable="true" type="q9:CompositeType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetContract">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="wo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contract" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetContractResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetContractResult" nillable="true" type="q10:Contract" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetOpname">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="tanggal" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetOpnameResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetOpnameResult" nillable="true" type="q11:Opname" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ceksite1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="site" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ceksite1Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="ceksite1Result" nillable="true" type="q12:cekSite" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cekrak1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="rakno" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cekrak1Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="cekrak1Result" nillable="true" type="q13:cekRak" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getrakno">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getraknoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="getraknoResult" nillable="true" type="q14:rakno" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetOpanameitem">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="partno" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetOpanameitemResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://schemas.datacontract.org/2004/07/WebServiceBarcodeTeknik" minOccurs="0" name="GetOpanameitemResult" nillable="true" type="q15:opanameitem" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1 @@
+<resources><string name="gcm_defaultSenderId" translatable="false">55810872931</string><string name="firebase_database_url" translatable="false">https://m-spp-c673d.firebaseio.com</string><string name="google_storage_bucket" translatable="false">m-spp-c673d.appspot.com</string></resources>

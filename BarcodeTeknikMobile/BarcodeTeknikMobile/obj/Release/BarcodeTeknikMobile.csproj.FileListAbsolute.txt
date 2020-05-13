@@ -1,0 +1,332 @@
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.pdb
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.BarcodeTeknikMobile.apk
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.BarcodeTeknikMobile-Signed.apk
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\FastAndroidCamera.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Glide.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Refractored.GifImageView.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\System.Data.DataSetExtensions.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Design.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Transition.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.v4.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Firebase.Common.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Firebase.Storage.Common.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Firebase.Storage.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\ZXing.Net.Mobile.Core.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\zxing.portable.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\ZXingNetMobile.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\FastAndroidCamera.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.Firebase.Storage.Common.dll.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.Firebase.Common.dll.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.Firebase.Storage.dll.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\proguard\dc663e480.txt
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\dc663e48.proguard.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\fb4df8d5.proguard.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\0757626b.proguard.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\1f4fd9cc.proguard.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\67b1d0a9.proguard.stamp
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\googsvcsjson\values\goog_svcs_json.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.csproj.CoreCompileInputs.cache
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.dll
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.pdb
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\android\bin\BarcodeTeknikMobile.BarcodeTeknikMobile.apk
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\first.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\toolbar.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\spinner_item.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\font\dancingscript.ttf
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\pemakaianbarang.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\listpemakaianbarang.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\unissue_dialog.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\photoupload.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\liststockopname.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\opname.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\wo.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\listwo.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\login.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\updatewo_dialog.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\changepassword.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\spinnercustomlayout.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\main.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\values\strings.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\background.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\values\style.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\shapebox.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\shapebutton.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\background.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\background.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\background.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\background.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\spinnergradient1.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\menu\menu_submit.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\sent.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\sent.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\sent.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\sent.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\sent.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\shapesearch.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\search.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\layerleft.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\menu\bottom_navigation_main.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\add.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\recycledivide2.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\recycledivider1.xml
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\camera.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\scan.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\camera.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\scan.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\camera.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\scan.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\camera.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\scan.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\camera.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\scan.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\upload.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\upload.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\upload.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\upload.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\upload.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\checkmark.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\checkmark.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\checkmark.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\checkmark.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\checkmark.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\gear.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\gear.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\gear.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\gear.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\gear.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\btnlogin.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\btnlogin.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\btnlogin.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\btnlogin.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\btnlogin.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\sync.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\sync.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\sync.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\sync.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\sync.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\minus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\plus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\minus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\plus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\minus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\plus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\plus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\minus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\minus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\plus.png
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\gears.gif
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\loading.gif
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\R.cs.flag
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\uploadflags.txt
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.dll.mdb
+D:\ProjectTes\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\android\assets\BarcodeTeknikMobile.dll.mdb
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.pdb
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.BarcodeTeknikMobile.apk
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.BarcodeTeknikMobile-Signed.apk
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\FastAndroidCamera.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Glide.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Refractored.GifImageView.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Square.OkHttp.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Square.OkIO.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Square.Picasso.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\System.Data.DataSetExtensions.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Design.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Transition.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.v4.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Firebase.Common.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Firebase.Storage.Common.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.Firebase.Storage.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Base.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Vision.Common.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\Xamarin.GooglePlayServices.Vision.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\ZXing.Net.Mobile.Core.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\zxing.portable.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\ZXingNetMobile.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\FastAndroidCamera.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.csprojResolveAssemblyReference.cache
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.Firebase.Storage.Common.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.Firebase.Common.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.Firebase.Storage.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Vision.Common.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Vision.dll.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\proguard\dc663e480.txt
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\dc663e48.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\fb4df8d5.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\0757626b.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\1f4fd9cc.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\67b1d0a9.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\2f4d086a.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\4fad4019.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\XbdMerge\9ba04780.proguard.stamp
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\googsvcsjson\values\goog_svcs_json.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.csproj.CoreCompileInputs.cache
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.dll
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\BarcodeTeknikMobile.pdb
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\android\bin\BarcodeTeknikMobile.BarcodeTeknikMobile.apk
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\first.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\toolbar.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\spinner_item.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\font\dancingscript.ttf
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\pemakaianbarang.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\listpemakaianbarang.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\unissue_dialog.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\photoupload.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\liststockopname.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\opname.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\wo.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\listwo.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\login.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\updatewo_dialog.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\changepassword.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\spinnercustomlayout.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\autentikasidialog.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\scanlayout.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\layout\main.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\values\strings.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\background.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\values\style.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\shapebox.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\shapebutton.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\background.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\background.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\background.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\background.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\spinnergradient1.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\menu\menu_submit.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\sent.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\sent.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\sent.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\sent.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\sent.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\shapesearch.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\search.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\layerleft.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\menu\bottom_navigation_main.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\add.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\recycledivide2.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\recycledivider1.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\camera.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\scan.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\camera.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\scan.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\camera.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\scan.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\camera.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\scan.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\camera.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\scan.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\upload.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\upload.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\upload.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\upload.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\upload.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\checkmark.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\checkmark.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\checkmark.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\checkmark.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\checkmark.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\gear.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\gear.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\gear.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\gear.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\gear.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\btnlogin.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\btnlogin.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\btnlogin.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\btnlogin.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\btnlogin.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\sync.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\sync.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\sync.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\sync.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\sync.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\minus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-hdpi\plus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\minus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-mdpi\plus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\minus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xhdpi\plus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\plus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxhdpi\minus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\minus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\mipmap-xxxhdpi\plus.png
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\gears.gif
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\loading.gif
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\drawable\recyclerdivider3.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\res\color\bottom_nav_icon_color_selector.xml
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\R.cs.flag
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\uploadflags.txt
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.dll.mdb
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\obj\Release\android\assets\BarcodeTeknikMobile.dll.mdb
+D:\ProjectTes\backup project\SPP\BarcodeTeknikMobile\BarcodeTeknikMobile\bin\Release\BarcodeTeknikMobile.dll
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.Data.pdb
+bin\Release\System.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Web.Services.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\System.IO.Compression.pdb
+bin\Release\System.IO.Compression.FileSystem.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\System.Transactions.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\Mono.Data.Tds.pdb
+bin\Release\Mono.Security.pdb
+obj\Release\linksrc\BarcodeTeknikMobile.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.Data.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Web.Services.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\System.IO.Compression.pdb
+obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\System.Transactions.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\Mono.Data.Tds.pdb
+obj\Release\linksrc\Mono.Security.pdb

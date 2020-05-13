@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55810872931",
+    "firebase_url": "https://m-spp-c673d.firebaseio.com",
+    "project_id": "m-spp-c673d",
+    "storage_bucket": "m-spp-c673d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55810872931:android:8ecddf36ae6bf2b0",
+        "android_client_info": {
+          "package_name": "BarcodeTeknikMobile.BarcodeTeknikMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55810872931-ljps85smo6v4di100ee866i7llpdnofq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmR95zwwDq9-eJiqaD1576eZNIINyKSlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
